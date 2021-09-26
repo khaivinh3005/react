@@ -4,6 +4,9 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
+
+//render: hàm của react giúp tạo UI
+//có 2 tham số: nội dung UI, thẻ sẽ được thêm nội dung
 ReactDOM.render(
   <React.StrictMode>
     <App />
